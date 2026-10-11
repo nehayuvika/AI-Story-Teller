@@ -1,0 +1,9 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+chat_history.json
+generated_stories/
+*.pdf
